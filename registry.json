@@ -1,6 +1,15 @@
 [
   {
-    "id": "modloader-api",
-    "repo": "shouennyou/DC_mod_modloader-api"
+    "id": [
+      "modloader-api"
+    ],
+    "repo": "shouennyou/DC_mod_shared-md-alert"
+  },
+  {
+    "id": [
+      "zh-cn-text",
+      "zh-cn-img"
+    ],
+    "repo": "shouennyou/DevilConnection_cn_dirty_txt"
   }
 ]
