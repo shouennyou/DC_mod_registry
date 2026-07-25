@@ -11,5 +11,17 @@
       "zh-cn-img"
     ],
     "repo": "shouennyou/DevilConnection_cn_dirty_txt"
+  },
+  {
+    "id": [
+      "modloader-api"
+    ],
+    "repo": "shouennyou/DC_mod_modloader-api"
+  },
+  {
+    "id": [
+      "assistant-suite"
+    ],
+    "repo": "shouennyou/DC_mod_assistant-suite"
   }
 ]
