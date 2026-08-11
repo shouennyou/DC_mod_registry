@@ -23,5 +23,11 @@
       "assistant-suite"
     ],
     "repo": "shouennyou/DC_mod_assistant-suite"
+  },
+  {
+    "id": [
+      "apng-mem-opt"
+    ],
+    "repo": "shouennyou/DC_mod_apng-mem-opt"
   }
 ]
