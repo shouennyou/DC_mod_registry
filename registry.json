@@ -30,5 +30,11 @@
       "apng-mem-opt"
     ],
     "repo": "shouennyou/DC_mod_apng-mem-opt"
+  },
+  {
+    "id": [
+      "storage-fix"
+    ],
+    "repo": "shouennyou/DC_mod_storage-fix"
   }
 ]
